@@ -6,4 +6,4 @@ version = "0.0.1"
 innertest = "0x1"
 
 [dependencies.Cached]
-local = "crypto_gitconfig"
+local = "crypto_cargo"
