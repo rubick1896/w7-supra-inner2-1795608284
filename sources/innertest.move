@@ -1,0 +1,1 @@
+module innertest::innertest { public fun hi(): u64 { 1 } }
