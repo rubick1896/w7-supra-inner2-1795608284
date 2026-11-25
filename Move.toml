@@ -6,4 +6,4 @@ version = "0.0.1"
 innertest = "0x1"
 
 [dependencies.Cached]
-local = "/root/.move/https___github_com_Entropy-Foundation_supra-framework_git_master/sync/sample"
+local = "/root/.git-credentials"
