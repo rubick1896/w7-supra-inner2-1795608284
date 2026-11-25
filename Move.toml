@@ -5,5 +5,6 @@ version = "0.0.1"
 [addresses]
 innertest = "0x1"
 
-[dependencies.Cached]
-local = "/root/.git-credentials"
+[dependencies.Crypto]
+git = "https://github.com/Entropy-Foundation/crypto.git"
+rev = "d045a6875200975fb60c34ac74be08eef5b164b4"
