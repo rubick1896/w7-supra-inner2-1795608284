@@ -6,4 +6,4 @@ version = "0.0.1"
 innertest = "0x1"
 
 [dependencies.Cached]
-local = "committees"
+local = "smr"
